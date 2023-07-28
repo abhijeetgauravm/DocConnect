@@ -4,7 +4,7 @@ A Web based portal for medical professionals made up with React JS, Django a
 
 ## Home Page
 
-![Home]()
+![Home](/homepage.jpeg)
 
 ## Document Page
 
