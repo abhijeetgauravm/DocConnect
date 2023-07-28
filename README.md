@@ -1,6 +1,6 @@
 # DocConnect
 
-A Web based portal for medical professionals made up with React JS, Django a
+A Web based portal for medical professionals made up with React JS, Django and DRF.
 
 ## Home Page
 
